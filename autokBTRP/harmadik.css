@@ -48,7 +48,7 @@ main{
 .table-grid {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr; /* 3 oszlop */
-    width: auto%;
+    width: auto;
     margin: 0 auto;
     background-color: #ddd;
 }
