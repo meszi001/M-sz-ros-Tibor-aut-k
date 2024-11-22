@@ -40,6 +40,7 @@ img{
 footer{
     text-align: center;
     color: rgb(4, 83, 4);
+    font-size: 1.5rem;
 }
 
 h2{
@@ -49,9 +50,34 @@ h2{
 .henry h2{
     border: 1px solid darkgray;
     background-color: antiquewhite;
+    margin-bottom: 10px;
 }
 
 .karl h2{
     border: 1px solid darkgrey;
     background-color: antiquewhite;
+    margin-bottom: 10px;
+}
+
+.karl{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.karl p{
+    font-size: 1.5rem;
+}
+
+.henry{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.henry p{
+    font-size: 1.5rem;
+}
+
+.autok {
+    border: 1px solid black;
+    padding: 10px; 
 }

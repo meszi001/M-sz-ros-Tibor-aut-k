@@ -34,3 +34,12 @@ main{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+ol {
+    list-style: decimal;
+    margin-left: 1.5rem;
+}
+
+ol li{
+    padding-bottom: 10px;
+}
